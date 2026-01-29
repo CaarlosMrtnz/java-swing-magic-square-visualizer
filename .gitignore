@@ -1,0 +1,13 @@
+# Archivos de compilación y Java
+*.class
+out/
+bin/
+
+# Configuración de IntelliJ (visto en tu captura)
+*.iml
+.idea/
+
+# Otros editores y sistemas
+.vscode/
+.DS_Store
+/nbproject/private/
